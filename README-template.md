@@ -41,7 +41,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://https://github.com/Ochijehfranklin/huddle-landing-page-with-single-introductory-section-master.com)
 - Live Site URL: [https://ochijehfranklin.github.io/huddle-landing-page-with-single-introductory-section-master/](https://https://ochijehfranklin.github.io/huddle-landing-page-with-single-introductory-section-master/.com)
 
 ## My process
