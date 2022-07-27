@@ -1,13 +1,15 @@
-*{
-    margin: 0px;
-    padding: 0px; 
-    box-sizing: border-box;
-}
 :root{
     --softMagenta: hsl(300, 69%, 71%);
     --violet: hsl(257, 40%, 49%);
     --white:    hsl(0, 0%, 100%);
 }
+
+*{
+    margin: 0px;
+    padding: 0px; 
+    box-sizing: border-box;
+}
+
 .top{
     padding: 20px 20px ;
     size: 400px;
