@@ -17,8 +17,9 @@
 
 body{
     background-image: url("/images/bg-desktop.svg");
-    background-color: var(--softMagenta);
-    background-size:100%;
+    background-color: var(--violet);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 .middle{
     padding-right: 30px;
@@ -37,11 +38,6 @@ font-weight: 400;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;  
 }
-/*.middle{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}*/
 .register{
     color: var(--violet);
     background-color: var(--white);
@@ -80,16 +76,17 @@ font-weight: 400;
     }
     .top{
         padding: 20px  50px 20px 10px ;
-        size: 400px;}
+        size: 400px;
+      height: 50%}
     body {
     background-image: url("/images/bg-mobile.svg");
     background-color: var(--violet);
     background-repeat: no-repeat;
-   /* background-size: 100%;*/}
+    background-size: contain;
+      margin: 5% auto;}
 
    .middle img{
     padding: 0 50px 0px 50px;
-    /*float: left;8*/
     margin: auto;
     width: 99%;
     height: 70%;
@@ -123,7 +120,6 @@ font-weight: 400;
         background-color: var(--white);
         border-radius: 20px;
         text-decoration: none;
-        /* width: 5px; */
         height: 10px;
        padding: 10px 90px;
        align-items: center;
@@ -140,6 +136,8 @@ font-weight: 400;
         clear: right;
         padding:30px 30px 10px 90px;
     }
+      .social a{
+    margin: 30px 5px;}
 
     .fa{ 
 
